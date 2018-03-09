@@ -1,0 +1,42 @@
+header {
+	background-color: green;
+	background-size: 125px 125px;
+	border: 1px solid grey;
+	box-shadow: 3px 6px grey;
+	text-align: left; 
+}
+
+#titulo-container {
+	text-align: center;
+	display: inline-block;
+	width: 100%;
+	vertical-align: top;
+	text-align: center;
+
+
+}
+
+#body {
+position: absolute;
+	width: ;
+	height: ;
+	border: inset;
+	background-color:
+	color: ;
+	text-align: center;
+	float: center;
+	margin-left: 
+	
+}
+
+#imag1 {
+	text-align: center;
+}
+
+
+
+h2{
+	text-align: center;
+	background-color: blue;
+	text-align: center;
+}
